@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Archived.** This example uses the old `osintcat` Python client, which no longer works with the OsintCat API. See [docs.osintcat.net](https://docs.osintcat.net) for the current API and the official SDKs.
+
 # 🔍 [ OsintCAT] Python Discord Bot Example
 
 Osintcat.ru python bot example for premium users
